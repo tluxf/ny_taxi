@@ -1,5 +1,6 @@
-# ny_taxi
-Data analysis project for New York City taxi rides in 2021. Full article at https://medium.com/@thomas.luxford/cash-vs-card-a-study-of-taxi-ride-behaviour-in-new-york-city-3586e9792503.
+# Cash vs Card: A study of Taxi Ride Behaviour In New York City
+
+A data analysis project for New York City taxi rides in 2021. Full article at https://medium.com/@thomas.luxford/cash-vs-card-a-study-of-taxi-ride-behaviour-in-new-york-city-3586e9792503.
 
 # Data Acquisition
 
