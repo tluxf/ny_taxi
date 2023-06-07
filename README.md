@@ -15,7 +15,7 @@ The processed data table was then aggregated in several different ways using the
 
 The processed data table was also aggregated in several more ways using the code in ‘nytaxi_aggregate_borough.sql’. In these aggregations, the data was aggregated by cash and card payments, the start borough, and one of the following: total number of payments, rides per calendar day, rides by time of day, and rides by ride duration. These were also saved as data tables and exported as .csv files.
 
-# Data Analysis and Processing
+# Data Analysis and Visualisation 
 
 All the .csv files exported during the aggregation of the data were imported into the excel workbook ‘taxi_data_analysis.xlsx’. Each data set was plotted as one or more graphs. 
 
